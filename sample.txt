@@ -1,3 +1,4 @@
+Title
 This is the first line of the file 
 I have deleted the second line here
 This is the second line of the file
